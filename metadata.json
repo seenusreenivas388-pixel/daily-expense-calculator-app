@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expenses Calculator",
+  "description": "A high-fidelity interactive fintech app mockup of a premium Daily Expenses Calculator. Features budget progress tracking, transaction seeder, bottom sheets, and custom analytics with interactive iPhone controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
